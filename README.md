@@ -4,7 +4,7 @@
     <h3>Image processing in Python</h3>
 </div>
 
-<br>
+###
 
 
 - **Website (including documentation):** [https://scikit-image.org/](https://scikit-image.org)
